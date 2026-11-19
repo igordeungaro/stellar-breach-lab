@@ -117,3 +117,12 @@ Follow **Hack with GitHub** on your favorite social media to get daily updates o
 ## Contributions
 
 Please have a look at [contributing.md](contributing.md)
+
+---
+
+### Créditos e fonte original
+
+Este repositório é um fork de [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking), criado e mantido pelos autores originais. Todo o crédito é deles.  
+Licença: Creative Commons Zero v1.0 Universal (mantida sem alterações).
+
+**Fonte original:** https://github.com/Hack-with-Github/Awesome-Hacking
